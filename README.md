@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I’m Kabish.S<br>💻 I’m passionate about becoming a Software Developer.<br>🌱 Currently learning Java and sharpening my programming skills.<br>🛠 Tech stack: HTML, CSS, JavaScript, Python (and growing 🚀).<br>🎯 Always excited to build cool projects and explore new technologies.<br><br>📫 Reach me at:<br><br>✉️ Email: kabishvimala@gmail.com<br><br>🌐 Portfolio: https://leetcode.com/u/kabish10/<br><br>
+👋 Hi there, I’m Kabish.S<br>💻 I’m passionate about becoming a Software Developer.<br>🌱 Currently learning Java and sharpening my programming skills.<br>🛠 Tech stack: HTML, CSS, JavaScript, Python (and growing 🚀).<br>🎯 Always excited to build cool projects and explore new technologies.<br><br>📫 Reach me at:<br><br>✉️ Email: kabishvimala@gmail.com<br><br>🌐 Portfolio: https://kabish-web.netlify.app/<br><br>
 
 
 ## 🌐 Socials:
