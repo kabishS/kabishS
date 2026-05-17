@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Freelance+Web+Developer;Java+Full+Stack+Learner;UI%2FUX+Enthusiast;Bug+Bounty+Hunter)](https://git.io/typing-svg)
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=kabishS&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -16,7 +15,7 @@
 - 💻 Frontend Developer & Freelance Web Developer
 - 🌱 Currently learning **Java Full Stack Development**
 - 🔍 Interested in **Web Development**, **UI/UX**, **Ethical Hacking** & **Bug Bounty**
-- 🌐 Portfolio: [kabish.great-sit.net](https://www.kabish.great-sit.net)
+- 🌐 Portfolio: [kabish.great-sit.net](https://kabish-web.netlify.app/)
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/kabish)
 
 ---
@@ -42,19 +41,15 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🌐 **Portfolio Website** | Personal portfolio showcasing skills & work | [View](https://www.kabish.great-sit.net) |
-| 🔐 **OTP Generator** | A secure OTP generation web app | [GitHub](https://github.com/kabishS) |
-| ✈️ **Travel Website** | A responsive travel-themed website | [GitHub](https://github.com/kabishS) |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing skills & work | [View](https://kabish-web.netlify.app/) |
+| 🔐 **OTP Generator** | A secure OTP generation web app | [View](https://kabishs.github.io/OTP/) |
+| ✈️ **Travel Website** | A responsive travel-themed website | [View](https://kabishs.github.io/Travel-website-C/) |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Kabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabishS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabishS&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kabishS&theme=tokyonight&hide_border=true)
 
@@ -66,7 +61,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kabish.great-sit.net)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz._.kabish/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kabishS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kabish)
 
