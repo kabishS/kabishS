@@ -43,7 +43,8 @@
 |--------|-------------|------|
 | 🌐 **Portfolio Website** | Personal portfolio showcasing skills & work | [View](https://kabish-web.netlify.app/) |
 | 🔐 **OTP Generator** | A secure OTP generation web app | [View](https://kabishs.github.io/OTP/) |
-| ✈️ **Travel Website** | A responsive travel-themed website | [View](https://kabishs.github.io/Travel-website-C/) |
+| ✈️ **Travel Website** | A responsive travel-themed website | [View](https://kabishs.github.io/Travels-Web/) |
+| 🌦️ **Weather App** | Real-time weather updates with city search using API | [View](https://kabishs.github.io/Weather-App/) |
 
 ---
 
