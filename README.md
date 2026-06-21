@@ -15,7 +15,7 @@
 - 💻 Frontend Developer & Freelance Web Developer
 - 🌱 Currently learning **Java Full Stack Development**
 - 🔍 Interested in **Web Development**, **UI/UX**, **Ethical Hacking** & **Bug Bounty**
-- 🌐 Portfolio: [kabish-web.netlify.app](https://kabish-web.netlify.app/)
+- 🌐 Portfolio: [kabish](https://kabishs.github.io/kabish/)
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/kabish)
 
 ---
