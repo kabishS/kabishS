@@ -68,8 +68,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kabishS&theme=tokyonight&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kabishS&theme=tokyonight&no-frame=true&row=1&column=6)
-
 </div>
 
 ---
