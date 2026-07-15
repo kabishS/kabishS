@@ -20,6 +20,14 @@
 
 ---
 
+## 🎭 Currently Exploring: Playwright + TypeScript
+
+- ⚙️ Automating end-to-end test suites with **Playwright** and **TypeScript**
+- 🧪 Learning test design patterns, fixtures, and CI integration for QA automation
+- 📌 Practice repo coming soon — stay tuned!
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -53,12 +61,12 @@
 
 ## 📂 Projects
 
-| Project | Description | Link |
-|---|---|---|
-| 🌐 **Portfolio Website** | Personal portfolio showcasing skills & work | [View](https://kabishs.github.io/kabish/) |
-| 🔐 **OTP Generator** | A secure OTP generation web app | [View](https://kabishs.github.io/OTP/) |
-| ✈️ **Travel Website** | A responsive travel-themed website | [View](https://kabishs.github.io/Travels-Web/) |
-| 🌦️ **Weather App** | Real-time weather updates with city search using API | [View](https://kabishs.github.io/Weather-App/) |
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| 🌐 **Portfolio Website** | Personal portfolio showcasing skills & work | HTML, CSS, JS | [View](https://kabishs.github.io/kabish/) |
+| 🔐 **OTP Generator** | A secure OTP generation web app | HTML, CSS, JS | [View](https://kabishs.github.io/OTP/) |
+| ✈️ **Travel Website** | A responsive travel-themed website | HTML, CSS, Bootstrap | [View](https://kabishs.github.io/Travels-Web/) |
+| 🌦️ **Weather App** | Real-time weather updates with city search using API | JS, Weather API | [View](https://kabishs.github.io/Weather-App/) |
 
 ---
 
@@ -67,6 +75,8 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kabishS&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kabishS&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
