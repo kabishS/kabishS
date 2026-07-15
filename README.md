@@ -20,14 +20,6 @@
 
 ---
 
-## 🎭 Currently Exploring: Playwright + TypeScript
-
-- ⚙️ Automating end-to-end test suites with **Playwright** and **TypeScript**
-- 🧪 Learning test design patterns, fixtures, and CI integration for QA automation
-- 📌 Practice repo coming soon — stay tuned!
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
