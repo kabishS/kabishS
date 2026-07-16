@@ -55,9 +55,9 @@
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| 🌐 **Portfolio Website** | Personal portfolio showcasing skills & work | HTML, CSS, JS | [View](https://kabishs.github.io/kabish/) |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing skills & work | HTML, CSS, Bootstap, JS | [View](https://kabishs.github.io/kabish/) |
 | 🔐 **OTP Generator** | A secure OTP generation web app | HTML, CSS, JS | [View](https://kabishs.github.io/OTP/) |
-| ✈️ **Travel Website** | A responsive travel-themed website | HTML, CSS, Bootstrap | [View](https://kabishs.github.io/Travels-Web/) |
+| ✈️ **Travel Website** | A responsive travel-themed website | HTML, CSS, Bootstrap, JS | [View](https://kabishs.github.io/Travels-Web/) |
 | 🌦️ **Weather App** | Real-time weather updates with city search using API | JS, Weather API | [View](https://kabishs.github.io/Weather-App/) |
 
 ---
