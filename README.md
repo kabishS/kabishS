@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me.
 
 - 🎓 B.Tech IT Student at **VSB College**
 - 💻 Frontend Developer & Freelance Web Developer
