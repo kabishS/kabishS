@@ -1,8 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Kabish_S 👋
+# Hi there, I'm Kabish S 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Freelance+Web+Developer;Java+Full+Stack+Learner;Playwright+%2B+TypeScript+QA;UI%2FUX+Enthusiast;Bug+Bounty+Hunter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&width=650\&lines=Software+Developer;Frontend+Developer;Java+Full+Stack+Learner;AI+%26+Web+Developer;Software+Testing+%26+Automation)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://kabishs.github.io/kabish/">Portfolio</a> •
+  <a href="https://linkedin.com/in/kabish">LinkedIn</a> •
+  <a href="https://github.com/kabishS">GitHub</a>
+</p>
 
 </div>
 
@@ -10,55 +16,127 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 B.Tech IT Student at **VSB College**
-- 💻 Frontend Developer & Freelance Web Developer
-- 🌱 Currently learning **Java Full Stack Development** and **Playwright with TypeScript** (test automation)
-- ☕ Comfortable with **Java**
-- 🔍 Interested in **Web Development**, **Testing**, & **Software Development**
-- 🌐 Portfolio: [kabishs.github.io/kabish](https://kabishs.github.io/kabish/)
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/kabish)
+* 🎓 **B.Tech Information Technology** student at **VSB College of Engineering Technical Campus**
+* 💻 Interested in **Software Development, Web Development & AI-powered applications**
+* ☕ Currently focusing on **Java Full Stack Development**
+* 🌱 Learning **Spring Boot, REST APIs & DSA**
+* 🧪 Exploring **Software Testing & Playwright with TypeScript**
+* 🚀 Building projects with **JavaScript, Java, APIs, AI tools & databases**
+* 🤖 Interested in integrating AI into practical software applications
+* 🌐 Portfolio: [kabishs.github.io/kabish](https://kabishs.github.io/kabish/)
+* 📫 LinkedIn: [linkedin.com/in/kabish](https://linkedin.com/in/kabish)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-**Frontend**
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🌐 Frontend
 
-**Backend & Languages**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Backend & Database
 
-**Testing & Tools**
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AI Explorer](https://img.shields.io/badge/AI_Explorer-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 🧪 Testing & Development Tools
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 🤖 AI & Developer Tools
+
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| 🌐 **Portfolio Website** | Personal portfolio showcasing skills & work | HTML, CSS, Bootstap, JS | [View](https://kabishs.github.io/kabish/) |
-| 🔐 **OTP Generator** | A secure OTP generation web app | HTML, CSS, JS | [View](https://kabishs.github.io/OTP/) |
-| ✈️ **Travel Website** | A responsive travel-themed website | HTML, CSS, Bootstrap, JS | [View](https://kabishs.github.io/Travels-Web/) |
-| 🌦️ **Weather App** | Real-time weather updates with city search using API | JS, Weather API | [View](https://kabishs.github.io/Weather-App/) |
+| Project                  | Description                                                                                                     | Tech Stack                                               | Link                                            |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------- |
+| 📥 **InboxFlow**         | AI-powered email inbox assistant that analyzes emails and converts them into actionable insights                | AI, APIs, JavaScript, Node.js, Supabase                  | [View](https://github.com/kabishS/InboxFlow)    |
+| 🎤 **Intervexa-AI**      | AI-powered interview preparation platform with aptitude, coding, AI interviews, job search and profile analysis | HTML, CSS, JS, Groq API, LocalStorage                    | [View](https://github.com/kabishS/Intervexa-AI) |
+| 🔥 **Burn-Ex**           | AI-based calorie estimation and fitness tracking system using computer vision                                   | JavaScript, MediaPipe, TensorFlow.js, Supabase, Chart.js | [View](https://kabishs.github.io/BurnEx/)       |
+| 🔌 **API-Hub**           | Open-source collection of free public APIs organized across multiple categories                                 | APIs, JavaScript, GitHub                                 | [View](https://github.com/kabishS)              |
+| 🌐 **Portfolio Website** | Personal developer portfolio showcasing skills, projects and certifications                                     | HTML, CSS, Bootstrap, JavaScript                         | [View](https://kabishs.github.io/kabish/)       |
+| 🌦️ **Weather App**      | Weather application with city search and real-time API-based weather information                                | JavaScript, Weather API                                  | [View](https://kabishs.github.io/Weather-App/)  |
+| ✈️ **Travel Website**    | Responsive travel-themed website with modern UI                                                                 | HTML, CSS, Bootstrap, JavaScript                         | [View](https://kabishs.github.io/Travels-Web/)  |
+| 🔐 **OTP Generator**     | Web application for generating OTPs                                                                             | HTML, CSS, JavaScript                                    | [View](https://kabishs.github.io/OTP/)          |
+
+---
+
+## 🏆 Hackathons & Projects
+
+### 🧠 Binary Titans
+
+Worked with **Binary Titans** on multiple hackathon and collaborative projects involving AI, web development, APIs and databases.
+
+* 🚀 **InboxFlow** — AI Email & Productivity Assistant
+* 🔥 **Burn-Ex** — AI-Based Calorie Estimation System
+* 📊 **SkillPulse** — Employment Outcomes & Skill Gap Tracking Platform
+* 💡 Participated in multiple college-level hackathons and technology events
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java
+ ├── OOP
+ ├── Collections
+ ├── DSA
+ └── Problem Solving
+
+Java Full Stack
+ ├── Spring Boot
+ ├── REST APIs
+ ├── MySQL
+ └── Backend Development
+
+Testing
+ ├── Playwright
+ ├── TypeScript
+ ├── Test Case Design
+ └── Automation Testing
+```
+
+---
+
+## 📜 Certifications & Learning
+
+* ☁️ **Google Cloud Skills Boost Arcade**
+* 💻 **Meta — Introduction to Front-End Development**
+* 🤖 **AI Prompt Engineering Masterclass — ChatGPT, Claude & Gemini**
+* ☕ **Java Programming — Scaler**
+* 🌐 **HTML5 Certification**
+* 🧪 Software Testing & Playwright Automation — Internship Learning
 
 ---
 
@@ -66,7 +144,19 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kabishS&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=kabishS&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kabishS&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 💻 Top Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabishS&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -76,9 +166,21 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz._.kabish/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kabishS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kabish)
+<a href="https://github.com/kabishS">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/kabish">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/itz._.kabish/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://kabishs.github.io/kabish/">
+<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
@@ -86,6 +188,8 @@
 
 <div align="center">
 
-⭐ **Star some repositories if you find them interesting!**
+### 🚀 Building • Learning • Creating
+
+⭐ **Feel free to explore my repositories!**
 
 </div>
