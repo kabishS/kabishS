@@ -117,7 +117,6 @@
 * 💻 **Meta — Introduction to Front-End Development**
 * 🤖 **AI Prompt Engineering Masterclass — ChatGPT, Claude & Gemini**
 * ☕ **Java Programming — Scaler**
-* 
 ---
 
 ## 📊 GitHub Stats
