@@ -2,12 +2,18 @@
 
 # Hi there, I'm Kabish S 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=500\&color=00C2FF\&center=true\&vCenter=true\&width=650\&speed=80\&lines=Software+Developer;Frontend+Developer;Java+Full+Stack+Learner;AI+%26+Web+Developer;Software+Testing+%26+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=400\&color=00C2FF\&center=true\&vCenter=true\&width=650\&speed=100\&lines=Software+Developer;Frontend+Developer;Java+Full+Stack+Learner;AI+%26+Web+Developer;Software+Testing+%26+Automation)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://kabishs.github.io/kabish/">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/kabish">💼 LinkedIn</a> •
-  <a href="https://github.com/kabishS">💻 GitHub</a>
+<p align="center">
+  <a href="https://kabishs.github.io/kabish/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00C2FF?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/kabish">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kabishS">
+    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -91,15 +97,17 @@
 
 <div align="center">
 
-| 🚀 | Highlight                                                                   |
-| -- | --------------------------------------------------------------------------- |
-| 🧠 | **Binary Titans** — Collaborative hackathon development team                |
-| 📥 | **InboxFlow** — AI Email & Productivity Assistant                           |
-| 🔥 | **Burn-Ex** — AI-Based Calorie Estimation System                            |
-| 📊 | **SkillPulse** — Employment Outcomes & Skill Gap Tracking Platform          |
-| 🏅 | Participated in **multiple hackathons, coding events & developer programs** |
+### 🧠 Binary Titans
+
+**AI • Web Development • Innovation**
 
 </div>
+
+* 📥 **InboxFlow** — AI Email & Productivity Assistant
+* 🔥 **Burn-Ex** — AI-Based Calorie Estimation System
+* 📊 **SkillPulse** — Employment Outcomes & Skill Gap Tracking Platform
+* 🚀 Participated in **hackathons, coding events & developer programs**
+* 💡 Built solutions involving **AI, APIs, databases & modern web technologies**
 
 ---
 
@@ -108,6 +116,10 @@
 * ☁️ **Google Cloud Skills Boost Arcade**
 * 💻 **Meta — Introduction to Front-End Development**
 * 🤖 **AI Prompt Engineering Masterclass — ChatGPT, Claude & Gemini**
+* ☕ **Java Programming — Scaler**
+* 🌐 **HTML5 Certification**
+* 🏅 **Google Cloud Skills Boost — Developer Essentials & Cloud Infrastructure**
+* 💡 **LeetCode 50 Days Badge**
 
 ---
 
