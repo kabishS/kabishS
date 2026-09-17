@@ -2,12 +2,12 @@
 
 # Hi there, I'm Kabish S 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&width=650\&lines=Software+Developer;Frontend+Developer;Java+Full+Stack+Learner;AI+%26+Web+Developer;Software+Testing+%26+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=500\&color=00C2FF\&center=true\&vCenter=true\&width=650\&speed=80\&lines=Software+Developer;Frontend+Developer;Java+Full+Stack+Learner;AI+%26+Web+Developer;Software+Testing+%26+Automation)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://kabishs.github.io/kabish/">Portfolio</a> •
-  <a href="https://linkedin.com/in/kabish">LinkedIn</a> •
-  <a href="https://github.com/kabishS">GitHub</a>
+  <a href="https://kabishs.github.io/kabish/">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/kabish">💼 LinkedIn</a> •
+  <a href="https://github.com/kabishS">💻 GitHub</a>
 </p>
 
 </div>
@@ -20,8 +20,8 @@
 * 💻 Interested in **Software Development, Web Development & AI-powered applications**
 * ☕ Focused on **Java Full Stack Development**
 * 🧪 Exploring **Software Testing & Playwright with TypeScript**
-* 🚀 Building projects with **JavaScript, Java, APIs, AI tools & databases**
-* 🤖 Interested in integrating AI into practical software applications
+* 🚀 Building practical projects using **Java, JavaScript, APIs, AI & databases**
+* 🤖 Interested in building **AI-powered software solutions**
 * 🌐 Portfolio: [kabishs.github.io/kabish](https://kabishs.github.io/kabish/)
 * 📫 LinkedIn: [linkedin.com/in/kabish](https://linkedin.com/in/kabish)
 
@@ -34,8 +34,8 @@
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🌐 Frontend
@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🧪 Testing & Development Tools
+### 🧪 Testing & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
@@ -87,16 +87,19 @@
 
 ---
 
-## 🏆 Hackathons & Experience
+## 🏆 Hackathons & Highlights
 
-### 🧠 Binary Titans
+<div align="center">
 
-Worked with **Binary Titans** on multiple collaborative projects involving AI, web development, APIs and databases.
+| 🚀 | Highlight                                                                   |
+| -- | --------------------------------------------------------------------------- |
+| 🧠 | **Binary Titans** — Collaborative hackathon development team                |
+| 📥 | **InboxFlow** — AI Email & Productivity Assistant                           |
+| 🔥 | **Burn-Ex** — AI-Based Calorie Estimation System                            |
+| 📊 | **SkillPulse** — Employment Outcomes & Skill Gap Tracking Platform          |
+| 🏅 | Participated in **multiple hackathons, coding events & developer programs** |
 
-* 📥 **InboxFlow** — AI Email & Productivity Assistant
-* 🔥 **Burn-Ex** — AI-Based Calorie Estimation System
-* 📊 **SkillPulse** — Employment Outcomes & Skill Gap Tracking Platform
-* 🚀 Participated in multiple hackathons and technology events
+</div>
 
 ---
 
@@ -119,16 +122,6 @@ Worked with **Binary Titans** on multiple collaborative projects involving AI, w
 <img src="https://github-readme-stats.vercel.app/api?username=kabishS&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=kabishS&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 💻 Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabishS&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
