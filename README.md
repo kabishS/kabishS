@@ -108,10 +108,6 @@
 * ☁️ **Google Cloud Skills Boost Arcade**
 * 💻 **Meta — Introduction to Front-End Development**
 * 🤖 **AI Prompt Engineering Masterclass — ChatGPT, Claude & Gemini**
-* ☕ **Java Programming — Scaler**
-* 🌐 **HTML5 Certification**
-* 🏅 **Google Cloud Skills Boost — Developer Essentials & Cloud Infrastructure**
-* 💡 **LeetCode 50 Days Badge**
 
 ---
 
