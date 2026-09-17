@@ -8,11 +8,11 @@
   <a href="https://kabishs.github.io/kabish/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white"/>
 </a>
-  <a href="https://linkedin.com/in/kabish">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/>
-  </a>
   <a href="https://github.com/kabishS">
     <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/kabish">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
