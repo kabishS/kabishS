@@ -18,8 +18,7 @@
 
 * 🎓 **B.Tech Information Technology** student at **VSB College of Engineering Technical Campus**
 * 💻 Interested in **Software Development, Web Development & AI-powered applications**
-* ☕ Currently focusing on **Java Full Stack Development**
-* 🌱 Learning **Spring Boot, REST APIs & DSA**
+* ☕ Focused on **Java Full Stack Development**
 * 🧪 Exploring **Software Testing & Playwright with TypeScript**
 * 🚀 Building projects with **JavaScript, Java, APIs, AI tools & databases**
 * 🤖 Interested in integrating AI into practical software applications
@@ -52,7 +51,7 @@
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -66,7 +65,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### 🤖 AI & Developer Tools
+### 🤖 AI Tools
 
 <p>
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -79,64 +78,37 @@
 
 ## 🚀 Featured Projects
 
-| Project                  | Description                                                                                                     | Tech Stack                                               | Link                                            |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------- |
-| 📥 **InboxFlow**         | AI-powered email inbox assistant that analyzes emails and converts them into actionable insights                | AI, APIs, JavaScript, Node.js, Supabase                  | [View](https://github.com/kabishS/InboxFlow)    |
-| 🎤 **Intervexa-AI**      | AI-powered interview preparation platform with aptitude, coding, AI interviews, job search and profile analysis | HTML, CSS, JS, Groq API, LocalStorage                    | [View](https://github.com/kabishS/Intervexa-AI) |
-| 🔥 **Burn-Ex**           | AI-based calorie estimation and fitness tracking system using computer vision                                   | JavaScript, MediaPipe, TensorFlow.js, Supabase, Chart.js | [View](https://kabishs.github.io/BurnEx/)       |
-| 🔌 **API-Hub**           | Open-source collection of free public APIs organized across multiple categories                                 | APIs, JavaScript, GitHub                                 | [View](https://github.com/kabishS)              |
-| 🌐 **Portfolio Website** | Personal developer portfolio showcasing skills, projects and certifications                                     | HTML, CSS, Bootstrap, JavaScript                         | [View](https://kabishs.github.io/kabish/)       |
-| 🌦️ **Weather App**      | Weather application with city search and real-time API-based weather information                                | JavaScript, Weather API                                  | [View](https://kabishs.github.io/Weather-App/)  |
-| ✈️ **Travel Website**    | Responsive travel-themed website with modern UI                                                                 | HTML, CSS, Bootstrap, JavaScript                         | [View](https://kabishs.github.io/Travels-Web/)  |
-| 🔐 **OTP Generator**     | Web application for generating OTPs                                                                             | HTML, CSS, JavaScript                                    | [View](https://kabishs.github.io/OTP/)          |
+| Project             | Description                                                                                                     | Tech Stack                                               | Link                                            |
+| ------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------- |
+| 📥 **InboxFlow**    | AI-powered email inbox assistant that analyzes emails and converts them into actionable insights                | AI, APIs, JavaScript, Node.js, Supabase                  | [View](https://github.com/kabishS/InboxFlow)    |
+| 🎤 **Intervexa-AI** | AI-powered interview preparation platform with aptitude, coding, AI interviews, job search and profile analysis | HTML, CSS, JavaScript, Groq API, LocalStorage            | [View](https://github.com/kabishS/Intervexa-AI) |
+| 🔥 **Burn-Ex**      | AI-based calorie estimation and fitness tracking system using computer vision                                   | JavaScript, MediaPipe, TensorFlow.js, Supabase, Chart.js | [View](https://kabishs.github.io/BurnEx/)       |
+| 🔌 **API-Hub**      | Open-source collection of free public APIs organized across multiple categories                                 | APIs, JavaScript, GitHub                                 | [View](https://github.com/kabishS)              |
 
 ---
 
-## 🏆 Hackathons & Projects
+## 🏆 Hackathons & Experience
 
 ### 🧠 Binary Titans
 
-Worked with **Binary Titans** on multiple hackathon and collaborative projects involving AI, web development, APIs and databases.
+Worked with **Binary Titans** on multiple collaborative projects involving AI, web development, APIs and databases.
 
-* 🚀 **InboxFlow** — AI Email & Productivity Assistant
+* 📥 **InboxFlow** — AI Email & Productivity Assistant
 * 🔥 **Burn-Ex** — AI-Based Calorie Estimation System
 * 📊 **SkillPulse** — Employment Outcomes & Skill Gap Tracking Platform
-* 💡 Participated in multiple college-level hackathons and technology events
+* 🚀 Participated in multiple hackathons and technology events
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Java
- ├── OOP
- ├── Collections
- ├── DSA
- └── Problem Solving
-
-Java Full Stack
- ├── Spring Boot
- ├── REST APIs
- ├── MySQL
- └── Backend Development
-
-Testing
- ├── Playwright
- ├── TypeScript
- ├── Test Case Design
- └── Automation Testing
-```
-
----
-
-## 📜 Certifications & Learning
+## 📜 Certifications & Achievements
 
 * ☁️ **Google Cloud Skills Boost Arcade**
 * 💻 **Meta — Introduction to Front-End Development**
 * 🤖 **AI Prompt Engineering Masterclass — ChatGPT, Claude & Gemini**
 * ☕ **Java Programming — Scaler**
 * 🌐 **HTML5 Certification**
-* 🧪 Software Testing & Playwright Automation — Internship Learning
+* 🏅 **Google Cloud Skills Boost — Developer Essentials & Cloud Infrastructure**
+* 💡 **LeetCode 50 Days Badge**
 
 ---
 
@@ -146,7 +118,7 @@ Testing
 
 <img src="https://github-readme-stats.vercel.app/api?username=kabishS&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kabishS&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=kabishS&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -188,7 +160,7 @@ Testing
 
 <div align="center">
 
-### 🚀 Building • Learning • Creating
+### 🚀 Build • Learn • Create
 
 ⭐ **Feel free to explore my repositories!**
 
