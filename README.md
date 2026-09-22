@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Kabish S 👋
+# Hi there, I'm Kabish S 👋.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=400\&color=00C2FF\&center=true\&vCenter=true\&width=650\&speed=100\&lines=Software+Developer;Frontend+Developer;Java+Full+Stack+Learner;AI+%26+Web+Developer;Software+Testing+%26+Automation)](https://git.io/typing-svg)
 
