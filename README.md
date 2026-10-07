@@ -1,21 +1,9 @@
 <div align="center">
 
-<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,45:6C63FF,100:00C2FF&text=Kabish%20S&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Create&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="Kabish S header"/>
-
-<!-- ═══════════════ TERMINAL BOOT SEQUENCE ═══════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=500&color=39FF14&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=130&lines=%24+boot+--profile+kabish;%5BOK%5D+loading+java_full_stack...;%5BOK%5D+mounting+AI+%26+web+toolkit...;%5BOK%5D+compiling+ideas+into+products...;%3E+system+ready.+Welcome+%F0%9F%9A%80" alt="Terminal boot animation"/>
-</a>
+<!-- ═══════ ANIMATED LAPTOP (assets/hero.svg) ═══════ -->
+<img src="./assets/hero.svg" alt="Animated laptop: Kabish S, B.Tech Information Technology student" width="100%"/>
 
 <br/>
-
-<!-- ═══════════════ ROTATING ROLES ═══════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=00C2FF&center=true&vCenter=true&width=760&height=50&lines=Software+Developer;Frontend+Developer;Java+Full+Stack+Learner;AI+%26+Web+Developer;Software+Testing+%26+Automation;Turning+Ideas+into+Intelligent+Solutions" alt="Rotating roles"/>
-</a>
-
-<br/><br/>
 
 <p>
   <a href="https://kabishs.github.io/kabish/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -25,17 +13,12 @@
   <img src="https://komarev.com/ghpvc/?username=kabishS&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
 </p>
 
-<img src="https://img.shields.io/badge/Focus-Java_Full_Stack-6C63FF?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Exploring-Playwright_%2B_TypeScript-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Building-AI_Powered_Apps-00C2FF?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Open_to_Collaborate-39FF14?style=flat-square"/>
-
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=400&color=6C63FF&center=true&vCenter=true&width=420&height=40&lines=%24+cat+about.js" alt="about"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=460&height=40&lines=%24+cat+about_me.js;%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+About+Me" alt="About Me"/>
 </div>
 
 ```js
@@ -47,48 +30,51 @@ const kabish = {
   buildingWith: ["Java", "JavaScript", "APIs", "AI", "Databases"],
   interestedIn: ["Software Development", "Web Development", "AI-powered applications"],
   motto: "Build • Learn • Create",
-
-  currentLoop() {
-    while (alive) {
-      build();   // ship real projects
-      learn();   // never stop exploring
-      create();  // turn ideas into intelligent solutions
-    }
-  },
 };
 ```
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=400&color=00C2FF&center=true&vCenter=true&width=480&height=40&lines=%24+ls+%2Dla+%7E%2Ftech_stack" alt="tech stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=460&height=40&lines=%24+ls+%2Dla+%7E%2Fskills;%F0%9F%9B%A0%EF%B8%8F+Skills" alt="Skills"/>
+</div>
 
+<table align="center">
+<tr>
+<td align="center" width="220"><b>💻 Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java,py,html,css,js" alt="Languages"/>
 <br/>
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,py,spring,mysql,html,css,bootstrap,git,github,vscode,postman&perline=13" alt="Tech stack icons"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<br/><br/>
-
-**🤖 AI Toolkit**
-
+<sub>Java · Python · HTML5 · CSS3 · JavaScript</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧩 Frameworks & Libraries</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/REST_API_Integration-02569B?style=for-the-badge" alt="REST API"/>
+<br/>
+<sub>Bootstrap · REST API Integration</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧰 Tools & Platforms</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub"/>
+<br/>
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
-
-</div>
-
 <br/>
+<sub>Git · GitHub · AI Tools (ChatGPT, Claude, Gemini)</sub>
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=400&color=39FF14&center=true&vCenter=true&width=480&height=40&lines=%24+git+log+--featured" alt="featured projects"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=460&height=40&lines=%24+git+log+%2D%2Dfeatured;%F0%9F%9A%80+Featured+Projects" alt="Projects"/>
 </div>
 
 <table>
@@ -138,10 +124,10 @@ Open-source collection of free public APIs organized across multiple categories.
 </tr>
 </table>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=400&color=FFB000&center=true&vCenter=true&width=520&height=40&lines=%24+cat+hackathons%2Elog;%F0%9F%A7%A0+Binary+Titans" alt="hackathons"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=FFB000&center=true&vCenter=true&width=460&height=40&lines=%24+cat+hackathons%2Elog;%F0%9F%A7%A0+Binary+Titans" alt="Hackathons"/>
 
 **TURNING IDEAS INTO INTELLIGENT SOLUTIONS**
 
@@ -157,7 +143,7 @@ Open-source collection of free public APIs organized across multiple categories.
 - 💡 Built solutions involving AI, APIs, databases & modern web technologies
 
 <details>
-<summary><b>📜 Certifications & Achievements (click to expand)</b></summary>
+<summary><b>📜 Certifications (click to expand)</b></summary>
 
 <br/>
 
@@ -168,41 +154,16 @@ Open-source collection of free public APIs organized across multiple categories.
 
 </details>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=400&color=00C2FF&center=true&vCenter=true&width=480&height=40&lines=%24+show+%2D%2Dstats+%2D%2Dlive" alt="github stats"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=460&height=40&lines=%24+fortune;%F0%9F%92%AC+Random+Quote" alt="Random quote"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kabishS&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabishS&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=kabishS&theme=tokyonight&hide_border=true&currStreakLabel=00C2FF&ring=6C63FF&fire=FFB000" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kabishS&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00c2ff&line=6c63ff&point=ffffff" width="95%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kabishS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
-
-</div>
+<!-- A new random quote each time the page is refreshed -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=400&color=39FF14&center=true&vCenter=true&width=480&height=40&lines=%24+.%2Fsnake+%2D%2Deat+%2D%2Dcontributions+%F0%9F%90%8D" alt="snake"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kabishS/kabishS/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kabishS/kabishS/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kabishS/kabishS/output/github-snake.svg"/>
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&width=620&height=40&lines=%E2%AD%90+Feel+free+to+explore+my+repositories!;%F0%9F%A4%9D+Let%27s+build+something+intelligent+together" alt="closing"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00C2FF,50:6C63FF,100:0d1117&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Create&fontSize=28&fontColor=ffffff&fontAlignY=68&animation=twinkling&reversal=true" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C2FF,50:6C63FF,100:0d1117&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Create&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=twinkling&reversal=true" width="100%" alt="footer"/>
 
 </div>
