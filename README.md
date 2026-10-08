@@ -6,7 +6,7 @@
     </td>
     <td width="50%" align="left" valign="middle">
 
-## $\color{#FFD43B}{\textsf{About Me}}$
+## $\color{#FFD43B}{\textsf{About Me 🤗}}$
 
 Hi, I’m Kabish, a B.Tech IT student and aspiring Software Developer.
 I enjoy building web applications and exploring AI technologies.
