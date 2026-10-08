@@ -1,149 +1,130 @@
-<div align="center">
+<!-- ============ PART 1: HERO (laptop + about me) ============ -->
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="./assets/laptop.svg" alt="Animated laptop showing Kabish, B.Tech IT student and software developer" width="100%" />
+    </td>
+    <td width="50%" align="left" valign="middle">
 
-# Hi there, I'm Kabish S 👋.
+## $\color{#FFD43B}{\textsf{About Me}}$
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=400\&color=00C2FF\&center=true\&vCenter=true\&width=650\&speed=100\&lines=Software+Developer;Frontend+Developer;Java+Full+Stack+Learner;AI+%26+Web+Developer;Software+Testing+%26+Automation)](https://git.io/typing-svg)
+Hi, I’m Kabish, a B.Tech IT student and aspiring Software Developer.
+I enjoy building web applications and exploring AI technologies.
+I’m passionate about learning, creating, and improving my development skills.
+
+
+</td>
+  </tr>
+</table>
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ PART 2: SOCIAL / PROFILE BUTTONS ============ -->
+
+<h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://kabishs.github.io/kabish/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white"/>
-</a>
-  <a href="https://github.com/kabishS">
-    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logoColor=white"/>
+  <a href="https://kabishs.github.io/kabish/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-800080?style=for-the-badge&logoColor=black" />
   </a>
-  <a href="https://linkedin.com/in/kabish">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <a href="https://instagram.com/itz._.kabish" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kabishS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/kabish10/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-* 🎓 **B.Tech Information Technology** student at **VSB College of Engineering Technical Campus**
-* 💻 Interested in **Software Development, Web Development & AI-powered applications**
-* ☕ Focused on **Java Full Stack Development**
-* 🧪 Exploring **Software Testing & Playwright with TypeScript**
-* 🚀 Building practical projects using **Java, JavaScript, APIs, AI & databases**
-* 🤖 Interested in building **AI-powered software solutions**
-* 🌐 Portfolio: [kabishs.github.io/kabish](https://kabishs.github.io/kabish/)
-* 📫 LinkedIn: [linkedin.com/in/kabish](https://linkedin.com/in/kabish)
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🧪 Testing & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 🤖 AI Tools
-
-<p>
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project             | Description                                                                                                     | Tech Stack                                               | Link                                            |
-| ------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------- |
-| 🎤 **Intervexa-AI** | AI-powered interview preparation platform with aptitude, coding, AI interviews, job search and profile analysis | HTML, CSS, JavaScript, Groq API, LocalStorage            | [View](https://github.com/kabishS/Intervexa-AI) |
-| 🔥 **Burn-Ex**      | AI-based calorie estimation and fitness tracking system using computer vision                                   | JavaScript, MediaPipe, TensorFlow.js, Supabase, Chart.js | [View](https://kabishs.github.io/BurnEx/)       |
-| 🔌 **API-Hub**      | Open-source collection of free public APIs organized across multiple categories                                 | APIs, JavaScript, GitHub                                 | [View](https://github.com/kabishS)              |
-
----
-
-## 🏆 Hackathons & Highlights
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-### 🧠 Binary Titans
+<h2>🛠️ Tech Stack</h2>
 
-**TURNING IDEAS INTO - INTELLIGENT SOLUTIONS**
+<h3>💻 Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-</div>
-* 🔥 **Burn-Ex** — AI-Based Calorie Estimation System
-* 📊 **SkillPulse** — Employment Outcomes & Skill Gap Tracking Platform
-* 🚀 Participated in **hackathons, coding events & developer programs**
-* 💡 Built solutions involving **AI, APIs, databases & modern web technologies**
+<h3>🌐 Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
----
+<h3>⚙️ Backend &amp; Database</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API" />
+</p>
 
-## 📜 Certifications & Achievements
+<h3>🧰 Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-* ☁️ **Google Cloud Skills Boost Arcade**
-* 💻 **Meta — Introduction to Front-End Development**
-* 🤖 **AI Prompt Engineering Masterclass — ChatGPT, Claude & Gemini**
-* ☕ **Java Programming — Scaler**
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/kabishS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kabish">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/itz._.kabish/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://kabishs.github.io/kabish/">
-<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Build • Learn • Create
-
-⭐ **Feel free to explore my repositories!**
+<h3>🤖 AI Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/50%2B_AI_Tools-7C6CFF?style=for-the-badge" alt="50+ AI tools" />
+</p>
 
 </div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ PART 3: FEATURED PROJECTS ============ -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+| Project | Description | Tech Stack | Link |
+| ------- | ----------- | ---------- | ---- |
+| 🎤 **Intervexa-AI** | AI-powered interview preparation platform with aptitude, coding, AI interviews, job search and profile analysis | HTML, CSS, JavaScript, Groq API, LocalStorage | [View](https://github.com/kabishS/Intervexa-AI) |
+| 🔥 **Burn-Ex** | AI-based calorie estimation and fitness tracking system using computer vision | JavaScript, MediaPipe, TensorFlow.js, Supabase, Chart.js | [View](https://github.com/kabishS/BurnEx) |
+| 🔌 **API-Hub** | Open-source collection of free public APIs organized across multiple categories | APIs, JavaScript, GitHub | [View](https://github.com/kabishS/APIs-Hub) |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ PART 4: CERTIFICATIONS & ACHIEVEMENTS ============ -->
+<h2 align="center">📜 Certifications &amp; Achievements</h2>
+
+- ☁️ **Google Cloud Skills Boost Arcade**
+- 💻 **Meta — Introduction to Front-End Development**
+- 🤖 **AI Prompt Engineering Masterclass — ChatGPT, Claude & Gemini**
+- ☕ **Java Programming — Scaler**
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ PART 5: CONTRIBUTION STREAK ============ -->
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kabishS&theme=tokyonight&hide_border=true&border_radius=16" alt="Kabish's GitHub contribution streak" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ PART 6: CONNECT WITH ME ============ -->
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://kabishs.github.io/kabish/"><img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://instagram.com/itz._.kabish"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/kabishS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/kabish10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
