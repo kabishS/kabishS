@@ -18,25 +18,10 @@ I’m passionate about learning, creating, and improving my development skills.
 </table>
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- ============ PART 2: SOCIAL / PROFILE BUTTONS ============ -->
-
-<h2 align="center">🔗 Connect With Me</h2>
-
+<!-- ============ PART 2: TYPING / PROFILE BUTTONS ============ -->
 <p align="center">
-  <a href="https://kabishs.github.io/kabish/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-800080?style=for-the-badge&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/itz._.kabish" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/kabishS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/kabish10/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=008CFF&center=true&vCenter=true&width=700&lines=Software+Developer.+.+.+!;Full+Stack+Developer.+.+.+!;AI+Expert.+.+.+!;Automation+%26+Manual+Testing.+.+.+!;Frontend+Developer.+.+.+!" alt="Typing Animation" />
   </a>
 </p>
 
