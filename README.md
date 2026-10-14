@@ -1,4 +1,3 @@
-<!-- ============ PART 1: HERO (laptop + about me) ============ -->>
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
