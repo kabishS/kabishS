@@ -78,7 +78,7 @@ I’m passionate about learning, creating, and improving my development skills.
 
 | Project | Description | Tech Stack | Link |
 | ------- | ----------- | ---------- | ---- |
-| 🎤 **Intervexa-AI** | AI-powered interview preparation platform with aptitude, coding, AI interviews, job search and profile analysis | HTML, CSS, JavaScript, Groq API, LocalStorage | [View](https://github.com/kabishS/Intervexa-AI) |
+| 🎤 **Intervexa-AI** | AI-powered interview preparation platform with aptitude, coding, AI interviews, job search and profile analysis | HTML, CSS, JavaScript, Groq API, LocalStorage | [View](https://intervexa-ai-udef.onrender.com/) |
 | 🔥 **Burn-Ex** | AI-based calorie estimation and fitness tracking system using computer vision | JavaScript, MediaPipe, TensorFlow.js, Supabase, Chart.js | [View](https://github.com/kabishS/BurnEx) |
 | 🔌 **API-Hub** | Open-source collection of free public APIs organized across multiple categories | APIs, JavaScript, GitHub | [View](https://github.com/kabishS/APIs-Hub) |
 
